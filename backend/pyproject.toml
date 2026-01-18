@@ -1,9 +1,0 @@
-[build-system]
-requires = ["setuptools>=61.0", "wheel"]
-build-backend = "setuptools.build_meta"
-
-[project]
-name = "idea-verify-backend"
-version = "1.0.0"
-description = "Idea Verify Backend"
-requires-python = ">=3.10"
