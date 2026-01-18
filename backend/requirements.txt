@@ -20,7 +20,7 @@ beautifulsoup4==4.12.2
 lxml==4.9.3
 
 # Data Processing
-pandas==2.2.0
+pandas==2.2.2
 numpy==1.26.4
 
 # Report Generation
