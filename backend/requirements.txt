@@ -27,7 +27,7 @@ numpy==1.26.4
 reportlab==4.0.8
 
 # Data Analysis & NLP
-textblob==0.17.1
+textblob==0.18.0.post1
 vaderSentiment==3.3.2
 langdetect==1.0.9
 
